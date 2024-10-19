@@ -1,0 +1,66 @@
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoForm\AplicativoForm\bin\Debug\net8.0-windows\AplicativoForm.exe
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoForm\AplicativoForm\bin\Debug\net8.0-windows\AplicativoForm.deps.json
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoForm\AplicativoForm\bin\Debug\net8.0-windows\AplicativoForm.runtimeconfig.json
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoForm\AplicativoForm\bin\Debug\net8.0-windows\AplicativoForm.dll
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoForm\AplicativoForm\bin\Debug\net8.0-windows\AplicativoForm.pdb
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.Form1.resources
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.FormCriarProduto.resources
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.csproj.GenerateResource.cache
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.AssemblyInfo.cs
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.dll
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\refint\AplicativoForm.dll
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.pdb
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.genruntimeconfig.cache
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\ref\AplicativoForm.dll
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.FormAdicionarCliente.resources
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.FormAdicionarCompra.resources
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.FormAdicionarFornecedor.resources
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.FormAdicionarVenda.resources
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.Properties.Resources.resources
+C:\Users\Monica\Desktop\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\bin\Debug\net8.0-windows\AplicativoForm.exe
+C:\Users\Monica\Desktop\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\bin\Debug\net8.0-windows\AplicativoForm.deps.json
+C:\Users\Monica\Desktop\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\bin\Debug\net8.0-windows\AplicativoForm.runtimeconfig.json
+C:\Users\Monica\Desktop\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\bin\Debug\net8.0-windows\AplicativoForm.dll
+C:\Users\Monica\Desktop\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\bin\Debug\net8.0-windows\AplicativoForm.pdb
+C:\Users\Monica\Desktop\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.Form1.resources
+C:\Users\Monica\Desktop\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.FormAdicionarCompra.resources
+C:\Users\Monica\Desktop\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.FormAdicionarFornecedor.resources
+C:\Users\Monica\Desktop\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.FormAdicionarVenda.resources
+C:\Users\Monica\Desktop\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.FormAdicionarCliente.resources
+C:\Users\Monica\Desktop\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.FormCriarProduto.resources
+C:\Users\Monica\Desktop\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.Properties.Resources.resources
+C:\Users\Monica\Desktop\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.csproj.GenerateResource.cache
+C:\Users\Monica\Desktop\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monica\Desktop\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.AssemblyInfoInputs.cache
+C:\Users\Monica\Desktop\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.AssemblyInfo.cs
+C:\Users\Monica\Desktop\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.csproj.CoreCompileInputs.cache
+C:\Users\Monica\Desktop\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.dll
+C:\Users\Monica\Desktop\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\refint\AplicativoForm.dll
+C:\Users\Monica\Desktop\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.pdb
+C:\Users\Monica\Desktop\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.genruntimeconfig.cache
+C:\Users\Monica\Desktop\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\ref\AplicativoForm.dll
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoFormAtualizado-main\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.dll
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoFormAtualizado-main\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\refint\AplicativoForm.dll
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoFormAtualizado-main\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.pdb
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoFormAtualizado-main\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\bin\Debug\net8.0-windows\AplicativoForm.exe
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoFormAtualizado-main\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\bin\Debug\net8.0-windows\AplicativoForm.deps.json
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoFormAtualizado-main\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\bin\Debug\net8.0-windows\AplicativoForm.runtimeconfig.json
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoFormAtualizado-main\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\bin\Debug\net8.0-windows\AplicativoForm.dll
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoFormAtualizado-main\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\bin\Debug\net8.0-windows\AplicativoForm.pdb
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoFormAtualizado-main\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.Form1.resources
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoFormAtualizado-main\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.FormAdicionarCompra.resources
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoFormAtualizado-main\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.FormAdicionarFornecedor.resources
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoFormAtualizado-main\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.FormAdicionarVenda.resources
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoFormAtualizado-main\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.FormAdicionarCliente.resources
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoFormAtualizado-main\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.FormCriarProduto.resources
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoFormAtualizado-main\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.Properties.Resources.resources
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoFormAtualizado-main\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.csproj.GenerateResource.cache
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoFormAtualizado-main\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoFormAtualizado-main\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.AssemblyInfoInputs.cache
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoFormAtualizado-main\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.AssemblyInfo.cs
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoFormAtualizado-main\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.csproj.CoreCompileInputs.cache
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoFormAtualizado-main\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\AplicativoForm.genruntimeconfig.cache
+C:\Users\aluno.cad\Desktop\DeJoaoPedroc#\AplicativoFormAtualizado-main\C# Aplicativo\AplicativoForm-main\DeJoaoPedroc#\AplicativoForm\AplicativoForm\obj\Debug\net8.0-windows\ref\AplicativoForm.dll
